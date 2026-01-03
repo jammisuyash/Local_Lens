@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "post1",
+      "description": "Garbage overflowing from a public bin.",
+      "imageUrl": "https://images.unsplash.com/photo-1659998755399-e63bbd03707a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnYXJiYWdlJTIwdHJhc2h8ZW58MHx8fHwxNzY3NDMyNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garbage trash"
+    },
+    {
+      "id": "post2",
+      "description": "Large pothole on a busy street.",
+      "imageUrl": "https://images.unsplash.com/photo-1730674337922-0bf08006a66a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3Rob2xlJTIwcm9hZHxlbnwwfHx8fDE3Njc0MzI2ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pothole road"
+    },
+    {
+      "id": "post3",
+      "description": "Leaking water pipe on the sidewalk.",
+      "imageUrl": "https://images.unsplash.com/photo-1720889589894-497c4f4f569e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3YXRlciUyMGxlYWt8ZW58MHx8fHwxNzY3NDMyNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water leak"
+    },
+    {
+      "id": "post4",
+      "description": "A lost dog wandering in the park.",
+      "imageUrl": "https://images.unsplash.com/photo-1583334506575-bd01c6b92e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsb3N0JTIwZG9nfGVufDB8fHx8MTc2NzQzMjY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lost dog"
+    },
+    {
+      "id": "post5",
+      "description": "Poster for a local community fair.",
+      "imageUrl": "https://images.unsplash.com/photo-1654868537177-86c35bb6b226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb21tdW5pdHklMjBldmVudHxlbnwwfHx8fDE3Njc0MzI2ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community event"
+    },
+    {
+      "id": "post6",
+      "description": "Newspaper clipping about a new local library opening.",
+      "imageUrl": "https://images.unsplash.com/photo-1635942174796-2e33f5b561bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxuZXdzJTIwYXJ0aWNsZXxlbnwwfHx8fDE3NjczNDI0Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "news article"
+    },
+    {
+      "id": "post7",
+      "description": "Fallen tree blocking a road after a storm.",
+      "imageUrl": "https://images.unsplash.com/photo-1520052600632-67420194a58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmYWxsZW4lMjB0cmVlfGVufDB8fHx8MTc2NzQzMjY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fallen tree"
+    },
+    {
+      "id": "post8",
+      "description": "Streetlight not working on a dark street.",
+      "imageUrl": "https://images.unsplash.com/photo-1579114213255-d8d82bfff681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHJlZXQlMjBsaWdodHxlbnwwfHx8fDE3NjczNDQ1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street light"
+    }
+  ]
+}
